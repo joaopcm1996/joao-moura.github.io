@@ -2,13 +2,17 @@
 # João Moura
 Content, blogs and assets
 
+## Generative AI and Foundation models
+* [Blog] [AlexaTM 20B is now available in Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/alexatm-20b-is-now-available-in-amazon-sagemaker-jumpstart/)
+* [Blog] [Architect personalized generative AI SaaS applications on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/architect-personalized-generative-ai-saas-applications-on-amazon-sagemaker/)
+* [Code Sample] [Host and Optimize Business Logic Scripts on SageMaker with Triton Inference Server - Stable Diffusion](https://github.com/aws/amazon-sagemaker-examples/tree/main/sagemaker-triton/business_logic_scripting/stable_diffusion)
+* [Code Sample] [Optimizing Stable Diffusion inference latency with AITemplate compilation](https://github.com/joaopcm1996/stable-diffusion-aitemplate-sm)
+* [Workshop] [Hugging Face on AWS Workshop - Deploying GPT-2 and GPT-J to SageMaker Multi-Model Endpoint](https://github.com/aws-samples/hugging-face-workshop/blob/main/endpoint/deploy_gpt2_gptj_mme.ipynb)
+
 ## Model Inference
 * [Blog] [Achieve hyperscale performance for model serving using NVIDIA Triton Inference Server on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/achieve-hyperscale-performance-for-model-serving-using-nvidia-triton-inference-server-on-amazon-sagemaker/)
 * [Code Sample] [Host and Optimize Ensemble Models on SageMaker with Triton Inference Server - Sentence Transformers](https://github.com/aws/amazon-sagemaker-examples/tree/main/sagemaker-triton/business_logic_scripting/stable_diffusion)
-* [Code Sample] [Host and Optimize Business Logic Scripts on SageMaker with Triton Inference Server - Stable Diffusion](https://github.com/aws/amazon-sagemaker-examples/tree/main/sagemaker-triton/business_logic_scripting/stable_diffusion)
-* [Code Sample] [Optimizing Stable Diffusion inference latency with AITemplate compilation](https://github.com/joaopcm1996/stable-diffusion-aitemplate-sm)
 * [Workshop] [re:Invent 2022 Workshop - Deploy deep learning models cost-effectively on GPUs with Amazon SageMaker](https://catalog.us-east-1.prod.workshops.aws/workshops/9d595a87-10ca-446a-bed7-f06ad8e0e463/en-US)
-* [Workshop] [Hugging Face on AWS Workshop - Deploying GPT-2 and GPT-J to SageMaker Multi-Model Endpoint](https://github.com/aws-samples/hugging-face-workshop/blob/main/endpoint/deploy_gpt2_gptj_mme.ipynb)
 
 ## Specialized Hardware
 * [Blog] [How InfoJobs (Adevinta) improves NLP model prediction performance with AWS Inferentia and Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/how-infojobs-adevinta-improves-nlp-model-prediction-performance-with-aws-inferentia-and-amazon-sagemaker/)
@@ -25,9 +29,6 @@ Content, blogs and assets
 * [Blog] [Transfer learning for TensorFlow text classification models in Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-tensorflow-text-classification-models-in-amazon-sagemaker/)
 * [Blog] [Run text classification with Amazon SageMaker JumpStart using TensorFlow Hub and Hugging Face models](https://aws.amazon.com/blogs/machine-learning/run-text-classification-with-amazon-sagemaker-jumpstart-using-tensorflow-hub-and-huggingface-models/)
 * [Workshop] [AWS ML Low-Code Immersion Day - SageMaker JumpStart](https://catalog.us-east-1.prod.workshops.aws/workshops/f560a788-af64-4e5a-a02c-a6c88516ab02/en-US/horizontallab/jumpstart)
-
-## Foundation models
-* [Blog] [AlexaTM 20B is now available in Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/alexatm-20b-is-now-available-in-amazon-sagemaker-jumpstart/)
 
 ## Kubernetes and Amazon EC2 Spot Instances
 * [Blog] [Efficiently Scaling kOps clusters with Amazon EC2 Spot Instances](https://aws.amazon.com/blogs/compute/efficiently-scaling-kops-clusters-with-amazon-ec2-spot-instances/)
