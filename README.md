@@ -5,6 +5,7 @@ Content, blogs and assets
 ## Generative AI and Foundation models
 * [Blog] [AlexaTM 20B is now available in Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/alexatm-20b-is-now-available-in-amazon-sagemaker-jumpstart/)
 * [Blog] [Architect personalized generative AI SaaS applications on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/architect-personalized-generative-ai-saas-applications-on-amazon-sagemaker/)
+* [Blog] [Create high-quality images with Stable Diffusion models and deploy them cost-efficiently with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/create-high-quality-images-with-stable-diffusion-models-and-deploy-them-cost-efficiently-with-amazon-sagemaker/)
 * [Code Sample] [Host and Optimize Business Logic Scripts on SageMaker with Triton Inference Server - Stable Diffusion](https://github.com/aws/amazon-sagemaker-examples/tree/main/sagemaker-triton/business_logic_scripting/stable_diffusion)
 * [Code Sample] [Optimizing Stable Diffusion inference latency with AITemplate compilation](https://github.com/joaopcm1996/stable-diffusion-aitemplate-sm)
 * [Workshop] [Hugging Face on AWS Workshop - Deploying GPT-2 and GPT-J to SageMaker Multi-Model Endpoint](https://github.com/aws-samples/hugging-face-workshop/blob/main/endpoint/deploy_gpt2_gptj_mme.ipynb)
