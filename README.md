@@ -12,6 +12,7 @@ Content, blogs and assets
 * [Workshop] [Hugging Face on AWS Workshop - Deploying GPT-2 and GPT-J to SageMaker Multi-Model Endpoint](https://github.com/aws-samples/hugging-face-workshop/blob/main/endpoint/deploy_gpt2_gptj_mme.ipynb)
 
 ## Model Inference
+* [Blog] [LoRA Serving on Amazon SageMaker - Serve 100's of Fine-Tuned LLMs for the Price of 1](https://medium.com/@joaopcmoura/lora-serving-on-amazon-sagemaker-serve-100s-of-fine-tuned-llms-for-the-price-of-1-85034ef889c5)
 * [Blog] [Achieve hyperscale performance for model serving using NVIDIA Triton Inference Server on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/achieve-hyperscale-performance-for-model-serving-using-nvidia-triton-inference-server-on-amazon-sagemaker/)
 * [Blog] [Host ML models on Amazon SageMaker using Triton: CV model with PyTorch backend](https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-cv-model-with-pytorch-backend/)
 * [Blog] [How Veriff decreased deployment time by 80% using Amazon SageMaker multi-model endpoints](https://aws.amazon.com/blogs/machine-learning/how-veriff-decreased-deployment-time-by-80-using-amazon-sagemaker-multi-model-endpoints/)
