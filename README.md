@@ -10,11 +10,12 @@ Content, blogs and assets
 
 ## Inference Optimization and Patterns
 * [Blog] [Benchmark and optimize LLM deployments in Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/benchmark-and-optimize-endpoint-deployment-in-amazon-sagemaker-jumpstart/)
-* [Blog] [LoRA Serving on Amazon SageMaker - Serve 100's of Fine-Tuned LLMs for the Price of 1](https://medium.com/@joaopcmoura/lora-serving-on-amazon-sagemaker-serve-100s-of-fine-tuned-llms-for-the-price-of-1-85034ef889c5)
+* [Blog] [LoRA Serving on Amazon SageMaker - Serve 100's of Fine-Tuned LLMs for the Price of 1 with LoRAX](https://medium.com/@joaopcmoura/lora-serving-on-amazon-sagemaker-serve-100s-of-fine-tuned-llms-for-the-price-of-1-85034ef889c5)
 * [Blog] [Achieve hyperscale performance for model serving using NVIDIA Triton Inference Server on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/achieve-hyperscale-performance-for-model-serving-using-nvidia-triton-inference-server-on-amazon-sagemaker/)
 * [Blog] [Host ML models on Amazon SageMaker using Triton: CV model with PyTorch backend](https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-cv-model-with-pytorch-backend/)
 * [Blog] [How Veriff decreased deployment time by 80% using Amazon SageMaker multi-model endpoints](https://aws.amazon.com/blogs/machine-learning/how-veriff-decreased-deployment-time-by-80-using-amazon-sagemaker-multi-model-endpoints/)
 * [Blog] [Create high-quality images with Stable Diffusion models and deploy them cost-efficiently with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/create-high-quality-images-with-stable-diffusion-models-and-deploy-them-cost-efficiently-with-amazon-sagemaker/)
+* [Code Sample] [LoRA Serving on Amazon SageMaker - vLLM + LoRA integration](https://github.com/joaopcm1996/notebooks/tree/main/sagemaker/03_multi_adapter_hosting_sagemaker_vllm)
 * [Code Sample] [Optimizing Stable Diffusion inference latency with AITemplate compilation](https://github.com/joaopcm1996/stable-diffusion-aitemplate-sm)
 * [Code Sample] [Host and Optimize Ensemble Models on SageMaker with Triton Inference Server - Sentence Transformers](https://github.com/aws/amazon-sagemaker-examples/tree/main/sagemaker-triton/business_logic_scripting/stable_diffusion)
 * [Code Sample] [Host and Optimize Business Logic Scripts on SageMaker with Triton Inference Server - Stable Diffusion](https://github.com/aws/amazon-sagemaker-examples/tree/main/sagemaker-triton/business_logic_scripting/stable_diffusion)
